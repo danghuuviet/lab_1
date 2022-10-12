@@ -1,0 +1,8 @@
+led_matrix.c:19:6:get_buffer_set	16	static
+led_matrix.c:25:6:write_led_row_col	16	static
+led_matrix.c:77:6:test_led	16	static
+led_matrix.c:86:6:clearAllClock	16	static
+led_matrix.c:93:6:setNumberOnClock	16	static
+led_matrix.c:193:6:clearNumberOnClock	16	static
+led_matrix.c:197:6:set12Led	64	static
+led_matrix.c:264:6:clock_ledmatrix	16	static
